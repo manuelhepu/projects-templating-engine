@@ -1,4 +1,4 @@
 #!/usr/bin/env groovy
 
-@Library('jenkins-shared-libraries@master') _
+@Library('jenkins-shared-libraries@main') _
 InitPipeline()
