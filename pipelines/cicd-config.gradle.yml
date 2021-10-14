@@ -1,0 +1,16 @@
+---
+#Archivo .yml de configuración especifica de la tecnologia gradle
+stages:
+  - build
+  - test
+  - deploy
+  - publish_artifact
+
+
+config:
+
+
+
+NODE_PREFERENCE: master
+
+  

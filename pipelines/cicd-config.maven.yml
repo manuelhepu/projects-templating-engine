@@ -1,0 +1,10 @@
+---
+#Archivo .yml de configuración especifica de la tecnologia maven
+stages:
+  - build
+  - deploy
+
+
+config:
+
+NODE_PREFERENCE: master
